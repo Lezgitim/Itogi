@@ -8,4 +8,5 @@
     Console.WriteLine();
 } 
 
-string [] array
+string [] array = new string [] {"улы", "бка", "здесь", ":)"};
+PrintMassiv(array);
