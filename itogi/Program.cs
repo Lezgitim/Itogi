@@ -7,4 +7,5 @@
     }
     Console.WriteLine();
 } 
-string [] array
+
+
