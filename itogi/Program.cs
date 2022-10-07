@@ -1,4 +1,6 @@
-﻿void PrintMassiv (string [] array)
+﻿// Задача: Написать программу, которая из имеющегося массива строк формирует новый массив из строк, длина которых меньше, либо равна 3 символам.
+
+void PrintMassiv (string [] array)
 {
     
     for(int i = 0; i < array.Length; i++)
