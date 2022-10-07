@@ -8,4 +8,4 @@
     Console.WriteLine();
 } 
 
-
+string [] array
